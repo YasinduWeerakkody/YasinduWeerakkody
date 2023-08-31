@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasindu Weerakkody</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently undergraduate BICT(Hons) **BICT(Hons)**
+- 🌱 I’m currently undergraduate **BICT(Hons)**
 
 - 📝 I regularly write articles on [https://medium.com/@yasiweera1234](https://medium.com/@yasiweera1234)
 
